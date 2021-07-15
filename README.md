@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-
-[![Minjae's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ussr1285)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Minjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussr1285)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ussr1285/ussr1285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
